@@ -1,1 +1,1 @@
-# Take-OUT | 2024 SeSAC Hackathon
+# TAKE-OUT | 2024 SeSAC Hackathon
